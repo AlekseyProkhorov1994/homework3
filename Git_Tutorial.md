@@ -1,4 +1,4 @@
-# **Git Tutirial**
+# **Git Tutorial**
 
 ## **Команды Git**
 
