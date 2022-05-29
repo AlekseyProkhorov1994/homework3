@@ -11,3 +11,5 @@
 * *git diff* - команда, используемая для отображения измениней файла, не зафиксированных командами *git add* и *git commit*
 
 Домашнее задание выполнил [*Алексей*](https://gb.ru/users/1019103 "Профиль на GB")
+
+![Фото профиля](https://gbcdn.mrgcdn.ru/uploads/avatar/2298416/attachment/thumb-a4675b4d828cd85d5fe709eac2542fd9.jpeg)
